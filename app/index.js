@@ -5,7 +5,7 @@ var Hello = React.createClass({
   render: function () {
     return (
       <div>Hello ReactJS Program!</div>
-    
+    )
   }
 });
 
