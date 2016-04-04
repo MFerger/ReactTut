@@ -1,8 +1,6 @@
-
 {
   "name": "gh-battle",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
@@ -20,5 +18,16 @@
     "html-webpack-plugin": "^2.7.1",
     "webpack": "^1.12.11",
     "webpack-dev-server": "^1.14.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MFerger/ReactTut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/MFerger/ReactTut/issues"
+  },
+  "homepage": "https://github.com/MFerger/ReactTut#readme",
+  "description": ""
 }
